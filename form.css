@@ -1,0 +1,49 @@
+#rowHeight{
+    height:90%;
+    margin-top: 20%;
+    justify-content: center;
+    align-items: center;
+}
+input{
+    padding:8px;
+    margin:10px 0px;
+    width:100%;
+}
+input[type=submit]{
+    color: white;
+    border:0px;
+    padding:10px;
+    border-radius: 5px;
+
+}
+#colMargin{
+    margin: 0px 5%;;
+}
+/* @media (max-width:320px) {
+    #rowHeight{
+        height:80vh;
+    }
+
+}
+@media (max-width:480px) {
+    #rowHeight{
+        height:50vh;
+    }
+
+}
+@media (max-width:600px) {
+    #rowHeight{
+        height:30vh;
+    }
+
+}
+@media (max-width:1025px){
+    #rowHeight{
+        height:25vh;
+    }
+} */
+.error{
+    color:blue;
+    text-align: left;
+    margin: 0px;
+}
